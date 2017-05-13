@@ -1,4 +1,4 @@
-log
-.log
-.aux
-.gz
+log/
+*.log
+*.aux
+*.gz
