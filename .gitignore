@@ -1,4 +1,4 @@
-log/
-*.log
-*.aux
-*.gz
+aca.aux
+aca.log
+aca.synctex.gz
+
